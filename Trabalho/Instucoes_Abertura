@@ -1,0 +1,14 @@
+                            Estrutura de Dados II
+Acadêmica: Edlâine Rodrigues Nunes
+Professor: Hélder Seixas Lima
+
+                                Instruções
+
+O código foi desenvolvido na linguagem c, na IDE Geany no sistema operacional Linux Mint. O nome do arquivo em c é 'ordenadoArquivo.c' e serve para gerar n cadastros automáticos (código de barras e quantidade), os quais são ordenados por cinco métodos diferentes (seleção, inserção, shellsort, quicksort e heapsort).
+
+Segue anexado nessa pasta, um arquivo 'Arquivo.txt' o qual já se encontra com alguns cadastros (desordenados) já gerados que a título de teste pode ser excluido, uma vez que o programa 'ordenadoArquivo.c' é capaz de abrir um arquivo externo já criado ou criar um caso não exista.
+
+O arquivo PDF 'Trab_ED_ParteIII.pdf' consta a análise de complexidade dos métodos de pesquisa estudados.
+
+*****OBSERVAÇÕES:
+No código 'ordenadoArquivo.c' a variável de referência para a ordenação de todos os métodos é "codBarra", e após a execução de cada método, o tempo de clock em milissegundos é mostrado ao usuário.
